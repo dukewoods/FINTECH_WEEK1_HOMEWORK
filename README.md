@@ -33,7 +33,7 @@ Douugh is on a mission to help Australian's take control of their finaces and ad
 * Invest - Dough also always you to select a porfolio depending on risk (low, mederate, aggressive) to auto invest an amount you select. They also allow you to invest in US companies. The portfolios are independently managed by Blackrock. 
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
-Douugh's intended customer are everday Australian's that are struggling to manage their finanes and able to invest for their future. 
+Douugh's intended customer are everday Australian's predominetly Millennials and Gen Z's who driven to set themselves up for the future and build wealth. 
 Founder and CEO Andy Taylor said "many Aussies are currently feeling stressed about their finances thanks to the steep increase in interest rates to combat rising inflation. The Aussie dream of owning a home is now increasingly out of reach for Gen-Z and many Millennials,” he said. “On top of this, we are seeing an increase in the use of revolving credit cards to help smooth their cash flow, which increases the likelihood of trapping many people into a spiraling debt cycle due to compounding interest on outstanding balances.” [Reference](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02676277-6A1154147?access_token=83ff96335c2d45a094df02a206a39ff4)
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
@@ -52,15 +52,18 @@ There is another domain called Neo-banking or challenger banking. After the GFC 
 Some major trends with in the lending Domain over the last 5-10 years was the innovation of Afterpay, who started the whole buy now pay later trend, and Zip co following suit. Since the F.I.R.E (Financial Indepence, Retire Early) community came to lite around 1992 which could be credited by the best selling book "Your money or your life" by Vicky Robin, there as been as surge for investors to start investing early. Therefor there have been alot of trading apps developed like eToro, CMC Markets, Commsec Pocket, IG Trading,ect. More recently companies have been developing Robo-adviser to make investing easier for the inexperienced investors with micro-investing or developed diversified funds to invest in. Some of these companies are SoFi Automated investing, Spaceship voyager, Sharesies, Six Park, ect. 
 
 **What are the other major companies in this domain?** 
-Other major neobank companies are Tyro Payments (Business Banking), Judo Bank, Up Bank, Alex Bank, BNK and Easy Street Financial Services. 
+Other major neobank companies are Tyro Payments (Business Banking), Judo Bank, Up Bank, Alex Bank, BNK and Easy Street Financial Services. The closest company I can find to Douugh is Betterment as it has checking account, Auto-investing and mastercard rewards system. Betterment does not have an app though. 
 
 ## Results
 
-* What has been the business impact of this company so far?
+**What has been the business impact of this company so far?**
+Douugh is still working towards releasing their Spend, Spot and Stockback products which are set to go live in Q4 FY23. Therefor the only revenue they have is from there current customers on the tradering platform which came from Goodments when they bought them out in Jan, 2021.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+**What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
+Some core metrics to measure success within Douugh would be number of customers, total deposits, average deposit balance, total revenue, net profit, market capitalization, funds under management.  
 
-* How is your company performing relative to competitors in the same domain?
+**How is your company performing relative to competitors in the same domain?**
+Douugh has not offically launched yet so it is hard to compare it to its competitors. 
 
 ## Recommendations
 
@@ -81,5 +84,6 @@ https://australianfintech.com.au/douugh-launches-worlds-first-pay-now-or-pay-lat
 https://mymoneysorted.com.au/fire-financial-independence-retire-early-australia/
 https://en.wikipedia.org/wiki/Neobank
 https://www.canstar.com.au/savings-accounts/neobanks/
+https://www.businessnewsaustralia.com/articles/douugh-targets-gen-y---z-investors-after-goodments-acquisition.html
 
 

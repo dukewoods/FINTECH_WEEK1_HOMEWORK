@@ -33,7 +33,10 @@
 	Invest - Dough also always you to select a porfolio depending on risk (low, mederate, aggressive) to auto invest an amount you select. They also allow you to invest in US companies. The portfolios are independently managed by Blackrock. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-    
+    Intended customer are everday Australian's that are struggling to manage their finanes and able to invest for their future. 
+    Founder and CEO Andy Taylor said "many Aussies are currently feeling stressed about their finances thanks to the steep increase in interest rates to combat rising inflation. The Aussie dream of owning a home is now increasingly out of reach for Gen-Z and many Millennials,” he said. (https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02676277-6A1154147?access_token=83ff96335c2d45a094df02a206a39ff4)
+
+“On top of this, we are seeing an increase in the use of revolving credit cards to help smooth their cash flow, which increases the likelihood of trapping many people into a spiraling debt cycle due to compounding interest on outstanding balances.”
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 	Douugh is offering the world's first Pay Now or Pay Later Stockback rewards Mastercard, which as mentioned before allows you to earn interest on your transaction which will be invested in the stockmarket via Douugh's portfolios. Douugh are trying to provide a one stop shop where you can bank, invest, borrow and earn rewards all in the one spot. Therefor limiting the need for Afterpay, Paypal, Commsec, Robinhood, Frequent flyers, Flybys, ING, ANZ, ect. 
@@ -73,4 +76,5 @@ https://australianfintech.com.au/ziptel-asxzip-to-acquire-100pc-of-douugh/
 https://www.crunchbase.com/organization/douugh
 https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02676277-6A1154147?access_token=83ff96335c2d45a094df02a206a39ff4
 https://australianfintech.com.au/douugh-launches-worlds-first-pay-now-or-pay-later-stockback-rewards-mastercard/
+
 

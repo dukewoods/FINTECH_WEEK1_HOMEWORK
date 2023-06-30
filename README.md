@@ -1,5 +1,11 @@
 # Unit 1 Homework Assignment: Fintech Case Study
 
+## Contents
+- [Overview and Origin](#overview-and-origin)
+- [Business Activities](#business-activities)
+- [Center](#center)
+- [Color](#color)
+
 ## Overview and Origin
 
 * Name of company 

@@ -1,4 +1,4 @@
-# Unit 1 Homework Assignment: Fintech Case Study
+# UNIT 1 HOME WORK ASSIGNMENT: FINTECH CASE STUDY
 ![Douugh App](douugh.webp)
 ## Contents
 - [Overview and Origin](#overview-and-origin)

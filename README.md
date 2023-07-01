@@ -73,13 +73,23 @@ Douugh has not offically launched yet so it is hard to compare it to its competi
 I will compare them to Raiz which is an investing platform operating in Australia, Indonesia and Malaysia. From Raiz's FY22 report they report activate customers amounting to 660,624. Funds under management $1.01B AUD. Revenue per customer $55.9 AUD. Revenue for FY22 was $18,695,000. Total compreshensive income loss for the year was -$11,249,000. As you can see Raiz has a lot more customers and generating a lot more revenue. What is interesting though is Raiz is still operating at a loss and it has been operating Australia since 2016. FUM has gone from $43m in 2016 to $996m in 2022. 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+**If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)**
+I think a really good product to add to Douugh would be an investing for kids option. If Douugh had an option were you could create a seperate account for your kids so you could start investing for them, that would work well with their vision of building long term wealth and financial freedom. 
 
-* Why do you think that offering this product or service would benefit the company?
+Another option I think Douugh should incorporate with their Spend account feauture would an AI budgeting tool that shows you were all you money is going. Examples would be expenses categories by merchants than also by category like clothes, food, fuel, ect. Also a feature showing you how much your saving, spending and investing. 
 
-* What technologies would this additional product or service utilize?
+**Why do you think that offering this product or service would benefit the company?**
+I think the kids investing option would be great as it leverages on what Douugh's vision is by setting you up for the future. I'm sure a lot a parents that are interested in investing wants to help their kids out, hence why other companies are offering this service as well. 
 
-* Why are these technologies appropriate for your solution?
+I believe a lot of aussie dont know budgeting basics and a lot of aussie are living pay check to pay check. If Douugh could help[ their customers see how they are using their money, where it is going and how they can improve would be a great benefit. 
+
+**What technologies would this additional product or service utilize?**
+I think robotic process automation and artificial intelligence. 
+
+**Why are these technologies appropriate for your solution?**
+Robotic process automation is appropriate for the kids investing product. If a customer wants to create an account for their child then it would be like filling out a form and creating an account which could be all automated and the account to be set up very quickly with all data verified on the spot. 
+
+Artificial intelligence would be appropriate for the budgeting product as you could use algothrimns and machine learning to analyse customers accounts and procude the results needed, like mentioned above, spending habits, merchants, ect. 
 
 ### References:
 https://douugh.com/investors
@@ -95,5 +105,7 @@ https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-
 https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02638177-6A1138686?access_token=83ff96335c2d45a094df02a206a39ff4
 https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02660485-6A1147859?access_token=83ff96335c2d45a094df02a206a39ff4
 https://cdn-api.markitdigital.com/apiman-gateway/CommSec/commsec-node-api/1.0/event/document/1410-02558086-7K5N758H2UUF4T1PJ11DLI3F0T/pdf?access_token=00074pb8dw3feb1FhgQPLCnaPIoG
+https://www.avenga.com/magazine/fintech-industry-trends/
+
 
 

@@ -3,8 +3,10 @@
 ## Contents
 - [Overview and Origin](#overview-and-origin)
 - [Business Activities](#business-activities)
-- [Center](#center)
-- [Color](#color)
+- [Landscape](#lanscape)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References](#references)
 
 ## Overview and Origin
 
@@ -60,11 +62,15 @@ Other major neobank companies are Tyro Payments (Business Banking), Judo Bank, U
 Douugh is still working towards releasing their Spend, Spot and Stockback products which are set to go live in Q4 FY23. Therefor the only revenue they have is from there current customers on the tradering platform which came from Goodments when they bought them out in Jan, 2021.
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
-Some core metrics to measure success within Douugh would be number of customers, total deposits, average deposit balance, total revenue, net profit, market capitalization, funds under management.  
+Some core metrics that I have pulled from Douugh's quaterly statement would be the following. Number of customers. Douugh currently has 7,000 registered customers and 1300 active customers. Total revenue, in Q3 22-23 Douughs revenue stood at $22,848, up 475% from Q2. Average funding per month, per customer was $232. Average annualised revenue per users is currently $112. 
+Key metrics to compare ASX listed companies for yr 22 would be; annual sales. Douughs annual sales was $588,364. Total compreshensive income loss for the year was -$13,487,518. Return on equity was -313.50% for 2022. Market capitalisation was sitting at $12m. Total return as percentage compare to the previous year was -85%.  
+
+As you can see Douugh's metrics are pretty poor atm and if i was looking to invest in this company i would just yet. Although I can see the appeal for customers wanting a one stop shop for investing, banking, afterpay and rewards. Will be interesting so see how to perform in the future when all products are running. 
+
 
 **How is your company performing relative to competitors in the same domain?**
 Douugh has not offically launched yet so it is hard to compare it to its competitors. 
-
+I will compare them to Raiz which is an investing platform operating in Australia, Indonesia and Malaysia. From Raiz's FY22 report they report activate customers amounting to 660,624. Funds under management $1.01B AUD. Revenue per customer $55.9 AUD. Revenue for FY22 was $18,695,000. Total compreshensive income loss for the year was -$11,249,000. As you can see Raiz has a lot more customers and generating a lot more revenue. What is interesting though is Raiz is still operating at a loss and it has been operating Australia since 2016. FUM has gone from $43m in 2016 to $996m in 2022. 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
@@ -75,7 +81,7 @@ Douugh has not offically launched yet so it is hard to compare it to its competi
 
 * Why are these technologies appropriate for your solution?
 
-References:
+### References:
 https://douugh.com/investors
 https://australianfintech.com.au/ziptel-asxzip-to-acquire-100pc-of-douugh/
 https://www.crunchbase.com/organization/douugh
@@ -85,5 +91,9 @@ https://mymoneysorted.com.au/fire-financial-independence-retire-early-australia/
 https://en.wikipedia.org/wiki/Neobank
 https://www.canstar.com.au/savings-accounts/neobanks/
 https://www.businessnewsaustralia.com/articles/douugh-targets-gen-y---z-investors-after-goodments-acquisition.html
+https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02576237-6A1112901?access_token=83ff96335c2d45a094df02a206a39ff4
+https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02638177-6A1138686?access_token=83ff96335c2d45a094df02a206a39ff4
+https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02660485-6A1147859?access_token=83ff96335c2d45a094df02a206a39ff4
+https://cdn-api.markitdigital.com/apiman-gateway/CommSec/commsec-node-api/1.0/event/document/1410-02558086-7K5N758H2UUF4T1PJ11DLI3F0T/pdf?access_token=00074pb8dw3feb1FhgQPLCnaPIoG
 
 

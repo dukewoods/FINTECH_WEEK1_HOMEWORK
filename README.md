@@ -6,7 +6,7 @@
 ## Contents
 - [Overview and Origin](#overview-and-origin)
 - [Business Activities](#business-activities)
-- [Landscape](#lanscape)
+- [Landscape](#landscape)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [References](#references)

@@ -11,7 +11,7 @@
 ## Overview and Origin
 
 **Name of company**
-Douugh Ltd (ASX: DOU) formely ZipTel
+>**Douugh Ltd (ASX: DOU) formely ZipTel**
 
 **When was the company incorporated?** 
 Ziptel was founded in 2016 and acquired 100% of the issued capital of Douugh Limited in March 22nd, 2020. Ziptel then changed its name to Douugh. 

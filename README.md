@@ -11,7 +11,7 @@
 ## Overview and Origin
 
 **Name of company**
->**Douugh Ltd (ASX: DOU) formely ZipTel**
+>**Douugh Ltd (ASX: DOU) formally ZipTel**
 
 **When was the company incorporated?** 
 Ziptel was founded in 2016 and acquired 100% of the issued capital of Douugh Limited in March 22nd, 2020. Ziptel then changed its name to Douugh. 
@@ -20,7 +20,7 @@ Ziptel was founded in 2016 and acquired 100% of the issued capital of Douugh Lim
 Andy Taylor was the founder of Douugh was is also the co-founder of SocietyOne, Australia's first and leading P2P Lending Platform. 
 
 **How did the idea for the company (or project) come about?** 
-Quote from Douugh website "We believe that existing banking and investing apps in the market are not designed to help educate and inspire to adopt the right money habits to build long-term wealth and achieve financial independence, which everyone inspires to achieve. We seek to change the paradigm by using technology thats shifts the customer experience away from self-service to self-driving money management through automation." 
+Quote from Douugh website "We believe that existing banking and investing apps in the market are not designed to help educate and inspire to adopt the right money habits to build long-term wealth and achieve financial independence, which everyone inspires to achieve. We seek to change the paradigm by using technology that's shifts the customer experience away from self-service to self-driving money management through automation." 
 
 **How is the company funded? How much funding have they received?**
 Douugh was funded with $2.5m of Seed capital in 2016 and 2017. On March 28th, 2022 there was a POST-IPO equity raise of $20m. Total of $22.5m raised in capital. 
@@ -28,9 +28,9 @@ Douugh was funded with $2.5m of Seed capital in 2016 and 2017. On March 28th, 20
 ## Business Activities:
 
 **What specific financial problem is the company or project trying to solve?**
-Douugh is on a mission to help Australian's take control of their finaces and adobt winning money habits to create long term wealth on autopilot. They are trying do do this by bringing together investing, banking, borrowing/personal lending and rewards by having the following options:
+Douugh is on a mission to help Australian's take control of their finances and adopt winning money habits to create long term wealth on autopilot. They are trying do do this by bringing together investing, banking, borrowing/personal lending and rewards by having the following options:
 * Spend feature: spending account link to mastercard. Their feature lets you "pay now" or "pay later." Digital card only providing environmental benefits and quick access to funding. 
-* Spot feature: This is the "pay later" feature. Option 1 "Spot Advance" - Borrow up to $500 on demand, deposited straight into spend account. Repay in 4x weekly instalments for a fixed $1.25 fee per repayment. Option 2 "Auto-Spot" - Pay for an item directly from the "Spot jar", so instead of money being deposited into your spend account and you being able to spend the money as you see fit you can pay for an item directly and then repay the loaned capital in four weekly installments with a $1.25 fee per week. 	
+* Spot feature: This is the "pay later" feature. Option 1 "Spot Advance" - Borrow up to $500 on demand, deposited straight into spend account. Repay in 4x weekly installments for a fixed $1.25 fee per repayment. Option 2 "Auto-Spot" - Pay for an item directly from the "Spot jar", so instead of money being deposited into your spend account and you being able to spend the money as you see fit you can pay for an item directly and then repay the loaned capital in four weekly installments with a $1.25 fee per week. 	
 * Stockback feature: This is a reward feature. The transaction on your spend card can earn interest and when $5 is reached Douugh will invest it into your selected investment profile.
 * Invest - Dough also always you to select a porfolio depending on risk (low, mederate, aggressive) to auto invest an amount you select. They also allow you to invest in US companies. The portfolios are independently managed by Blackrock. 
 

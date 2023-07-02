@@ -94,9 +94,9 @@ I think a really good product to add to the Douugh offering would be an investin
 Another option I think Douugh should incorporate with their Spend account feature is an AI budgeting tool that shows you where all your money is going. Examples would be expenses categorised by merchants, then also by category like clothes, food, fuel, etc. Also a feature showing you how much you're saving, spending and investing. 
 
 **Why do you think that offering this product or service would benefit the company?**  
-I think the kids investing option would be great as it leverages Douugh's vision by setting you up for the future. I'm sure a lot a parents that are interested in investing want to help their kids out, hence why other companies are offering this service as well. 
+I think the kids investing option would be great as it leverages Douugh's vision by setting you up for the future. I'm sure a lot a parents that are interested in investing want to help their kids out, hence why other companies are offering this service as well like Raiz and Pearler.  
 
-I believe a lot of Australian's don't know budgeting basics and a lot of people are living pay check to pay check. If Douugh could help their customers see how they are using their money, where it is going and how they can improve, this would be a great benefit. 
+I believe a lot of Australians don't know budgeting basics and a lot of people are living pay check to pay check. If Douugh could help their customers see how they are using their money, where it is going and how they can improve, this would be a great benefit. ANZ have some create AI budgeting tools integrated in their online and mobile banking platforms. Their Money Report is generated monthly and outlines where you have been spending your money and also produces an annualised report so you can see how your net wealth is increasing or decreasing over time.  
 
 **What technologies would this additional product or service utilize?**  
 Robotic process automation and artificial intelligence. 
@@ -120,7 +120,11 @@ Artificial intelligence would be appropriate for the budgeting product as you co
 - [cdn-api.markitdigital.com_ref3](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02638177-6A1138686?access_token=83ff96335c2d45a094df02a206a39ff4)  
 - [cdn-api.markitdigital.com_ref4](https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02660485-6A1147859?access_token=83ff96335c2d45a094df02a206a39ff4)  
 - [cdn-api.markitdigital.com_ref5](https://cdn-api.markitdigital.com/apiman-gateway/CommSec/commsec-node-api/1.0/event/document/1410-02558086-7K5N758H2UUF4T1PJ11DLI3F0T/pdf?access_token=00074pb8dw3feb1FhgQPLCnaPIoG)  
-- [avenga.com](https://www.avenga.com/magazine/fintech-industry-trends/)  
+- [avenga.com](https://www.avenga.com/magazine/fintech-industry-trends/)
+- [pearler.com/](https://pearler.com/)  
+- [raizinvest.com.au](https://raizinvest.com.au/)
+- [anz.com.au](https://www.anz.com.au/ways-to-bank/more/yourmoneyreport/) 
+
 
 
 

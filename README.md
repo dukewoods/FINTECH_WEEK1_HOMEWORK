@@ -23,7 +23,7 @@ Douugh was founded in 2016.
 Andy Taylor is the founder of Douugh and is also the co-founder of SocietyOne, Australia's first and leading P2P Lending Platform. 
 
 **How did the idea for the company (or project) come about?**  
-Quote from Douugh website *"We believe that existing banking and investing apps in the market are not designed to help educate and inspire to adopt the right money habits to build long-term wealth and achieve financial independence, which everyone inspires to achieve. We seek to change the paradigm by using technology that shifts the customer experience away from self-service to self-driving money management through automation."* [Douugh](https://douugh.com/about)
+Andy Taylor said *"We believe that existing banking and investing apps in the market are not designed to help educate and inspire to adopt the right money habits to build long-term wealth and achieve financial independence, which everyone inspires to achieve. We seek to change the paradigm by using technology that shifts the customer experience away from self-service to self-driving money management through automation."* [Douugh](https://douugh.com/about)
 
 **How is the company funded? How much funding have they received?**  
 Douugh was funded with $2.5m of Seed capital in 2016 and 2017. On March 28th, 2022 there was a POST-IPO equity raise of $20m. Total of $22.5m raised in capital. 

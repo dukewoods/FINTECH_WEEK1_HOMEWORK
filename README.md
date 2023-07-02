@@ -9,7 +9,7 @@
 - [Landscape](#landscape)
 - [Results](#results)
 - [Recommendations](#recommendations)
-- [References](#references)
+- [Addendum](#addendum)
 
 ## Overview and Origin
 
@@ -106,7 +106,7 @@ Robotic process automation is appropriate for the kids investing product. If a c
 
 Artificial intelligence would be appropriate for the budgeting product as you could use algorithms and machine learning to analyse customers accounts and produce the results needed, like  spending habits, merchants, etc. 
 
-## References:
+## Addendum:
 - [douugh.com](https://douugh.com)  
 - [australianfintech.com.au/ziptel-asxzip-to-acquire-100pc-of-douugh](https://australianfintech.com.au/ziptel-asxzip-to-acquire-100pc-of-douugh/)  
 - [crunchbase.com/organization/douugh](https://www.crunchbase.com/organization/douugh)  

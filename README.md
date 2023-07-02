@@ -96,7 +96,7 @@ Another option I think Douugh should incorporate with their Spend account featur
 **Why do you think that offering this product or service would benefit the company?**  
 I think the kids investing option would be great as it leverages Douugh's vision by setting you up for the future. I'm sure a lot a parents that are interested in investing want to help their kids out, hence why other companies are offering this service as well like Raiz and Pearler.  
 
-I believe a lot of Australians don't know budgeting basics and a lot of people are living pay check to pay check. If Douugh could help their customers see how they are using their money, where it is going and how they can improve, this would be a great benefit. ANZ have some create AI budgeting tools integrated in their online and mobile banking platforms. Their Money Report is generated monthly and outlines where you have been spending your money and also produces an annualised report so you can see how your net wealth is increasing or decreasing over time.  
+I believe a lot of Australians don't know budgeting basics and a lot of people are living pay check to pay check. If Douugh could help their customers see how they are using their money, where it is going and how they can improve, this would be a great benefit. ANZ have some greate AI budgeting tools integrated in their online and mobile banking platforms. Their Money Report is generated monthly and outlines where you have been spending your money and also produces an annualised report so you can see how your net wealth is increasing or decreasing over time.  
 
 **What technologies would this additional product or service utilize?**  
 Robotic process automation and artificial intelligence. 

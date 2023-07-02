@@ -1,5 +1,5 @@
 # UNIT 1 HOME WORK ASSIGNMENT: FINTECH CASE STUDY
-### By Joshua Woods 1/7/2023
+> ### By Joshua Woods 1/7/2023
 
 ![Douugh App](douugh.webp)
 
